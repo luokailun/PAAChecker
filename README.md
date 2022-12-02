@@ -1,5 +1,5 @@
 # PAAChecker
-AAAI-2023
+AAAI-2023: Automated Verification of Propositional Agent Abstraction for Classical Planning via CTLK Model Checking
 
 #Acknowledgements
 
